@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://media.discordapp.net/attachments/1187693005826707456/1210658167571222528/Meteor__1__LE_auto_x2-removebg_2.png?ex=65eb5c48&is=65d8e748&hm=fc066f27cf9dd46b3649363fd194853709e88fa6edd6299a1e236c94c5b6a9ed&=&format=webp&quality=lossless&width=701&height=701 alt="logo" width= height= />
+<img src=https://media.discordapp.net/attachments/1187693005826707456/1210658167571222528/Meteor__1__LE_auto_x2-removebg_2.png?ex=65eb5c48&is=65d8e748&hm=fc066f27cf9dd46b3649363fd194853709e88fa6edd6299a1e236c94c5b6a9ed&=&format=webp&quality=lossless&width=701&height=701 alt="logo" width=500 height=500 />
 
 <h1>Anticheat</h1>
 <p>A FREE open-source anticheat with decent checks!</p>
@@ -13,6 +13,11 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+- [Roadmap](#compass-roadmap)
+- [Contributing](#wave-contributing)
+- [FAQ](#grey_question-faq)
+- [License](#warning-license)
+- [Contact](#handshake-contact)
 
 
 ## :star2: About the Project
@@ -31,7 +36,65 @@
 ### :art: Color Reference
 | Color | Hex |
 | --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#fa4b0a](https://via.placeholder.com/10/fa4b0a?text=+) #fa4b0a |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
+| Secondary Color | ![#bb6c28](https://via.placeholder.com/10/bb6c28?text=+) #bb6c28 |
+| Accent Color | ![#b53c00](https://via.placeholder.com/10/b53c00?text=+) #b53c00 |
+| Text Color | ![#0000](https://via.placeholder.com/10/0000?text=+) #0000 |
+
+## :toolbox: Getting Started
+
+### :running: Run Locally
+
+Clone the project
+
+```bash
+https://github.com/Nerd10000/MeteorAC
+```
+Cloning:
+```bash
+git clone https://github.com/Nerd10000/MeteorAC
+```
+Change directory:
+```bash
+cd MeteorAC
+```
+And With Intelij setup up correctly!
+
+
+## :compass: Roadmap
+
+* [ ] Aimbot
+* [x] Fly
+* [x] Speed
+* [ ] AimAssist
+* [ ] Boat Fly
+* [ ] Badpackets
+* [ ] Baritone
+* [ ] Bhop
+* [x] Killaura
+* [ ] Scaffhold
+
+
+## :wave: Contributing
+
+<a href="https://github.com/Nerd10000/MeteorAC/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
+
+Contributions are always welcome!
+
+see `contributing.md` for ways to get started
+
+## :grey_question: FAQ
+
+- Why is my plugin is disabled?
+- Please check your PacketEventsAPI installed correctly!
+
+
+## :warning: License
+
+Distributed under the no License. See LICENSE.txt for more information.
+
+## :handshake: Contact
+
+Ned1000 - -
+
+Project Link: [https://github.com/Nerd10000/MeteorAC](https://github.com/Nerd10000/MeteorAC)
