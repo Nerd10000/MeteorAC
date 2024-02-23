@@ -1,0 +1,4 @@
+name: MeteorAC
+version: '${project.version}'
+main: me.dragon.meteorac.MeteorAC
+api-version: '1.20'
