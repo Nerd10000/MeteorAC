@@ -1,8 +1,5 @@
 <div align='center'>
-
-<img src=https://media.discordapp.net/attachments/1187693005826707456/1210658167571222528/Meteor__1__LE_auto_x2-removebg_2.png?ex=65eb5c48&is=65d8e748&hm=fc066f27cf9dd46b3649363fd194853709e88fa6edd6299a1e236c94c5b6a9ed&=&format=webp&quality=lossless&width=701&height=701 alt="logo" width=500 height=500 />
-
-<h1>Anticheat</h1>
+<p align="center"><img src="https://media.discordapp.net/attachments/1187693005826707456/1210658167571222528/Meteor__1__LE_auto_x2-removebg_2.png?ex=65eb5c48&amp;is=65d8e748&amp;hm=fc066f27cf9dd46b3649363fd194853709e88fa6edd6299a1e236c94c5b6a9ed&amp;=&amp;format=webp&amp;quality=lossless&amp;width=701&amp;height=701" alt="project-image"></p>
 <p>A FREE open-source anticheat with decent checks!</p>
 
 <h4> <span> · </span> <a href="https://github.com/Nerd1000/MeteorAC/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Nerd1000/MeteorAC/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Nerd1000/MeteorAC/issues"> Request Feature </a> </h4>
